@@ -654,47 +654,6 @@ Este proyecto es de código abierto y desarrollado en el programa **ALURA ONE**.
 
 Puedes usar, copiar, modificar y distribuir este software libremente, siempre que incluyas y cites al autor.
 
-## 👨‍💻 Autor
-
-**Fernandez**
-
-- 🐙 GitHub: [@jackhfernandez](https://github.com/jackhfernandez)
-- 📧 Proyecto: Currency Converter Java Application
-
-## 📞 Soporte
-
-Si encuentras problemas o tienes preguntas:
-
-### Reportar un Bug
-
-1. Ve a la sección de [**Issues**](https://github.com/jackhfernandez/exchange-java-api/issues)
-2. Click en **New Issue**
-3. Incluye:
-   - 🐛 Descripción detallada del problema
-   - 🔄 Pasos para reproducir el error
-   - 💻 Versión de Java que estás usando
-   - 📋 Logs de error (si aplica)
-   - 📸 Capturas de pantalla (si es visual)
-
-### Solicitar una Funcionalidad
-
-1. Abre un **Issue** con la etiqueta `enhancement`
-2. Describe la funcionalidad propuesta
-3. Explica por qué sería útil
-
-### Preguntas Frecuentes (FAQ)
-
-**Q: ¿La API Key es gratuita?**  
-A: Sí, ExchangeRate-API ofrece 1,500 peticiones/mes gratis.
-
-**Q: ¿Funciona sin conexión a Internet?**  
-A: No, requiere conexión para obtener las tasas actualizadas.
-
-**Q: ¿Puedo usar otra API de tasas de cambio?**  
-A: Sí, pero deberás modificar `ExchangeRateService` para adaptarla.
-
-**Q: ¿Dónde se guardan los archivos de historial?**  
-A: En la raíz del proyecto (`conversion_history.txt` y `.json`).
 
 ## 🙏 Agradecimientos
 
